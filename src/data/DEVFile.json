@@ -1,0 +1,38 @@
+[
+    {
+        "app": "ac-pss-sys-xbok-ca-central-1",
+        "build": "2552",
+        "hash": "5d3e55c68e95f1d5b54d7763786b1ed67029fd19",
+        "date": "2019-11-03 20:35:04"
+      }, 
+      {
+        "app": "ac-pss-sys-xcrm-ca-central-1",
+        "build": "994",
+        "hash": "1737359eba22b9c881a48e1e1de9fc2e81964114",
+        "date": "2019-10-30 20:35:42"
+      }, 
+      {
+        "app": "ac-pss-sys-xflt-ca-central-1",
+        "build": "2134",
+        "hash": "6af095d2b1d2ea2827616a8ec41a11f33a1a4344",
+        "date": "2019-11-04 21:06:19"
+      }, 
+      {
+        "app": "ac-pss-sys-xshp-ca-central-1",
+        "build": "1921",
+        "hash": "1f56b96330d97bfa59b0d6cd85dd4c1baeaec174",
+        "date": "2019-10-30 20:24:44"
+    }, 
+    {
+        "app": "ac-pss-sys-xsea-ca-central-1",
+        "build": "1652",
+        "hash": "5880951269d84dfe882f2fbfb4747f6a7e0a277e",
+        "date": "2019-10-31 17:21:32"
+      },
+      {
+        "app": "ac-pss-sys-xutl-ca-central-1",
+        "build": "1805",
+        "hash": "e2f07fd812a2523b2ca1b79892669d049792362e",
+        "date": "2019-11-04 21:06:37"
+      }
+]

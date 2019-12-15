@@ -1,0 +1,16 @@
+[{
+    "app": "ac-pss-sshi",
+    "hash": "7570cf8c4b0b69b9740e5e7d9eb5edacb86c1253",
+    "date" : "2019-10-18 18:14:28",
+    "build" : 260
+}, { 
+    "app" : "ac-pss-sshp",
+    "hash" : "8f2d6c17199dc15e19e329cb94244ea2d3dd1b93",
+    "date" : "2019-10-18 17:14:17",
+    "build" : 774
+}, { 
+    "app" : "ac-pss-xbok", 
+    "hash" : "243e89ebb4e8bc65f91cb500f47d782211dba925", 
+    "date" : "2019-10-18 17:59:32", 
+    "build" : 2376
+}]

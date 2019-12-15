@@ -1,0 +1,38 @@
+[
+    {
+        "app": "ac-pss-mst-xdcs-ca-central-1",
+        "build": "2525",
+        "hash": "4479e6f0990dcbe41816801ce92aec6e0fb379a7",
+        "date": "2019-11-01 19:39:34"
+      },
+      {
+        "app": "ac-pss-mst-xbok-ca-central-1",
+        "build": "2560",
+        "hash": "af5e6f9fc322c1555a151b090d69ae70acd80559",
+        "date": "2019-11-05 00:02:52"
+      },
+      {
+        "app": "ac-pss-mst-xcrm-ca-central-1",
+        "build": "1006",
+        "hash": "d5a6cf9709f7d4de4b6e848772e4694cb0dbd702",
+        "date": "2019-11-01 19:39:38"
+      },
+      {
+        "app": "ac-pss-mst-xsea-ca-central-1",
+        "build": "1668",
+        "hash": "4e065be3257e5346c8052139377e4d66803cf14d",
+        "date": "2019-11-01 19:24:36"
+      },
+      {
+        "app": "ac-pss-salt-mst-ca-central-1",
+        "build": "2381",
+        "hash": "6a4aadca4d9295395dc51fa5ecbaf4f482081229",
+        "date": "2019-11-01 19:39:34"
+      },
+      {
+        "app": "ac-pss-salt-mst-ca-central-1",
+        "build": "2381",
+        "hash": "6a4aadca4d9295395dc51fa5ecbaf4f482081229",
+        "date": "2019-11-01 19:39:34"
+      }
+]

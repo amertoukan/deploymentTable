@@ -127,10 +127,10 @@ style = {{textAlign: 'center', margin: "10%", marginTop: 10, marginBottom: 5}}>
 </Typography>
 
 {
-    (this.props.page) ? <DeployButton 
+    (this.props.page) && <DeployButton 
         onClick = {this.props.onClick}
         open = {this.props.dOpen}
-    /> : console.log('bye')
+    /> 
 }
 
 <DeployDialog

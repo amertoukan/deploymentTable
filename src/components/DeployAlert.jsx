@@ -16,7 +16,7 @@ export default class DeployDialog extends Component{
 render(){
     return (
     <Dialog 
-    open = {this.props.open}
+    open = {this.props.open || false}
     onClose = {this.props.onClose}
     aria-labelledby="alert-dialog-deploy"
     aria-describedby="deploy applications"

@@ -109,8 +109,14 @@ return (
           <CreateTable 
            data = {this.props.data}
             props = {this.props}
+            region = 'ca'
+           />:  
+           <CreateTable
+           data = {this.props.data}
+            props = {this.props}
             region = 'eu'
-           />:  <h4>Hello Deploy</h4>} 
+            />
+           } 
         </TabPanel>
         <TabPanel value={this.props.value} index={2}>
         {this.props.page === 'status' ? 
@@ -118,7 +124,12 @@ return (
         props = {this.props}
            data = {this.props.data}
             region = 'ca'
-           />: <h4>Hello Deploy</h4>} 
+           />: 
+           <CreateTable
+           data = {this.props.data}
+           props = {this.props}
+           region = 'eu'
+        />} 
         </TabPanel>
     </div>
 )

@@ -23,8 +23,8 @@ render(){
   return (
     <BrowserRouter> 
     <Switch>
-      <Route exact path="/" component={Status}/>
-      <Route exact path = '/deploy' component={Deploy}/>
+      <Route exact path="/" component={Deploy}/>
+      <Route exact path = '/deploy' component={Status}/>
     </Switch>
     
     </BrowserRouter>

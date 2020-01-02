@@ -96,19 +96,21 @@ handleClickOpen = (v) => {
     }
 
 handleClose = val => {
+    console.log(val)
     if (val === "STG" || val === "PRD"){
         this.setState({
             show: true, 
-            display: "inline"
+            display: "inline",
         })
     } else {
         this.setState({
             show: false,
-            display: "none"
+            display: "none",
         })
     }
     this.setState({
         open: false,
+        selectedValue: val
     })
 };
 
